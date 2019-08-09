@@ -1,0 +1,6 @@
+E:\Ecolibrium\StormCE_Library_VFS_Tool\bin\Debug\StormCE_Library_VFS_Tool.exe
+E:\Ecolibrium\StormCE_Library_VFS_Tool\bin\Debug\StormCE_Library_VFS_Tool.pdb
+E:\Ecolibrium\StormCE_Library_VFS_Tool\obj\Debug\StormCE_Library_VFS_Tool.csprojAssemblyReference.cache
+E:\Ecolibrium\StormCE_Library_VFS_Tool\obj\Debug\StormCE_Library_VFS_Tool.csproj.CoreCompileInputs.cache
+E:\Ecolibrium\StormCE_Library_VFS_Tool\obj\Debug\StormCE_Library_VFS_Tool.exe
+E:\Ecolibrium\StormCE_Library_VFS_Tool\obj\Debug\StormCE_Library_VFS_Tool.pdb

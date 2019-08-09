@@ -1,0 +1,14 @@
+C:\Users\Neon Vortex\source\repos\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\bin\Debug\StormCE_Library_VFS_Extract.exe.config
+C:\Users\Neon Vortex\source\repos\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\bin\Debug\StormCE_Library_VFS_Extract.exe
+C:\Users\Neon Vortex\source\repos\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\bin\Debug\StormCE_Library_VFS_Extract.pdb
+C:\Users\Neon Vortex\source\repos\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\obj\Debug\StormCE_Library_VFS_Extract.csprojAssemblyReference.cache
+C:\Users\Neon Vortex\source\repos\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\obj\Debug\StormCE_Library_VFS_Extract.csproj.CoreCompileInputs.cache
+C:\Users\Neon Vortex\source\repos\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\obj\Debug\StormCE_Library_VFS_Extract.exe
+C:\Users\Neon Vortex\source\repos\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\obj\Debug\StormCE_Library_VFS_Extract.pdb
+E:\Ecolibrium\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\bin\Debug\StormCE_Library_VFS_Extract.exe.config
+E:\Ecolibrium\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\bin\Debug\StormCE_Library_VFS_Extract.exe
+E:\Ecolibrium\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\bin\Debug\StormCE_Library_VFS_Extract.pdb
+E:\Ecolibrium\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\obj\Debug\StormCE_Library_VFS_Extract.csprojAssemblyReference.cache
+E:\Ecolibrium\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\obj\Debug\StormCE_Library_VFS_Extract.csproj.CoreCompileInputs.cache
+E:\Ecolibrium\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\obj\Debug\StormCE_Library_VFS_Extract.exe
+E:\Ecolibrium\StormCE_Library_VFS_Extract\StormCE_Library_VFS_Extract\obj\Debug\StormCE_Library_VFS_Extract.pdb
